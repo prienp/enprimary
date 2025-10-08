@@ -44,6 +44,12 @@
       "until": "2025-11-14"
     },
     {
+      "date": "2025-10-29",
+      "note": "Cumhuriyet Bayramı",
+      "title": "🇹🇷 29 Ekim",
+      "repeat": "yearly"
+    },
+    {
       "date": "2026-01-16",
       "title": "📚 1. Dönem Bitişi"
     },
