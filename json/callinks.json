@@ -95,5 +95,12 @@
       "title": "🇹🇷 23 Nisan",
       "repeat": "yearly"
     }
-  ]
+  ],
+  "schedule": [
+  { day: "Monday", times: ["08:15;5A", "08:55;Break", "10:35;2A", "11:15;Break", "11:30;2A", "12:10;Break"]},
+  { day: "Tuesday", times: ["08:40;2B", "09:20;Break", "09:40;2B", "10:20;Break", "10:35;2C", "11:15;Break", "11:30;2C", "12:10;Break"] },
+  { day: "Wednesday", times: ["08:15;5B", "08:55;Break", "09:10;5B", "09:50;Break", "10:35;3A", "11:15;Break", "11:30;3A", "12:10;Break"] },
+  { day: "Thursday", times: ["08:40;3B", "09:20;Break", "09:40;3B", "10:20;Break", "10:35;3C", "11:15;Break", "11:30;3C", "12:10;Break", "13:50;Nöbet"] },
+  { day: "Friday", times: ["08:15;5B", "08:55;Break", "10:00;5A", "10:40;Break", "10:50;5A", "11:30;Break",] }
+],
 }
