@@ -83,7 +83,7 @@
   "schedule": [
     {
       "day": "Monday",
-      "times": ["08:15;5A", "08:55;Break", "10:35;2A", "11:15;Break", "11:30;2A", "12:10;Break"]
+      "times": ["08:15;5A", "08:55;Break", "13:10;2A", "13:50;Break", "14:05;2A", "14:45;Break"]
     },
     {
       "day": "Tuesday",
