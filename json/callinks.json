@@ -11,18 +11,6 @@
   ],
   "calendar": [
     {
-      "date": "2026-05-01",
-      "note": "İşçi Bayramı",
-      "title": "👷 1 Mayıs",
-      "repeat": "yearly"
-    },
-    {
-      "date": "2026-05-19",
-      "note": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-      "title": "🇹🇷 19 Mayıs",
-      "repeat": "yearly"
-    },
-    {
       "date": "2025-09-08",
       "title": "🏫 2025-2026"
     },
@@ -30,12 +18,6 @@
       "date": "2025-11-10",
       "title": "🏖️ 1. Ara Tatil",
       "until": "2025-11-16"
-    },
-    {
-      "date": "2025-10-29",
-      "note": "Cumhuriyet Bayramı",
-      "title": "🇹🇷 29 Ekim",
-      "repeat": "yearly"
     },
     {
       "date": "2026-01-19",
@@ -52,14 +34,28 @@
       "until": "2026-03-22"
     },
     {
-      "date": "2026-06-26",
-      "title": "📚 2. Dönem Bitişi"
-    },
-    {
       "date": "2026-03-19",
       "note": "3.5 Gün",
       "title": "🌙 Ramazan Bayramı",
       "until": "2026-03-22"
+    },
+    {
+      "date": "2026-04-23",
+      "note": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "title": "🇹🇷 23 Nisan",
+      "repeat": "yearly"
+    }
+    {
+      "date": "2026-05-01",
+      "note": "İşçi Bayramı",
+      "title": "👷 1 Mayıs",
+      "repeat": "yearly"
+    },
+    {
+      "date": "2026-05-19",
+      "note": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "title": "🇹🇷 19 Mayıs",
+      "repeat": "yearly"
     },
     {
       "date": "2026-05-26",
@@ -68,17 +64,21 @@
       "until": "2026-05-30"
     },
     {
-      "date": "2026-01-01",
+      "date": "2026-06-26",
+      "title": "📚 2. Dönem Bitişi"
+    },
+    {
+      "date": "2026-10-29",
+      "note": "Cumhuriyet Bayramı",
+      "title": "🇹🇷 29 Ekim",
+      "repeat": "yearly"
+    },
+    {
+      "date": "2027-01-01",
       "note": "Yeni Yıl Tatili",
       "title": "🎉 Yılbaşı",
       "repeat": "yearly"
     },
-    {
-      "date": "2026-04-23",
-      "note": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "title": "🇹🇷 23 Nisan",
-      "repeat": "yearly"
-    }
   ],
   "schedule": [
     {
