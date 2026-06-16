@@ -11,64 +11,64 @@
   ],
   "calendar": [
     {
-      "date": "2025-09-14",
+      "date": "2026-09-14",
       "title": "🏫 2026-2027"
     },
     {
-      "date": "2025-11-16",
+      "date": "2026-11-16",
       "title": "🏖️ 1. Ara Tatil",
-      "until": "2025-11-20"
+      "until": "2026-11-20"
     },
     {
-      "date": "2026-01-25",
+      "date": "2027-01-25",
       "title": "🏖️ Yarıyıl Tatili",
-      "until": "2026-02-05"
+      "until": "2027-02-05"
     },
     {
-      "date": "2026-02-08",
+      "date": "2027-02-08",
       "title": "🏫 2. Dönem Başlangıcı"
     },
     {
-      "date": "2026-03-08",
+      "date": "2027-03-08",
       "title": "🏖️ 2. Ara Tatil",
       "until": "2026-03-12"
     },
     {
-      "date": "2026-03-08",
+      "date": "2027-03-08",
       "note": "3.5 Gün",
       "title": "🌙 Ramazan Bayramı",
-      "until": "2026-03-11"
+      "until": "2027-03-11"
     },
     {
-      "date": "2026-04-23",
+      "date": "2027-04-23",
       "note": "Ulusal Egemenlik ve Çocuk Bayramı",
       "title": "🇹🇷 23 Nisan",
       "repeat": "yearly"
     },
     {
-      "date": "2026-05-01",
+      "date": "2027-05-01",
       "note": "İşçi Bayramı",
       "title": "👷 1 Mayıs",
       "repeat": "yearly"
     },
     {
-      "date": "2026-05-19",
+      "date": "2027-05-19",
       "note": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
       "title": "🇹🇷 19 Mayıs",
       "repeat": "yearly"
     },
     {
-      "date": "2026-05-15",
+      "date": "2027-05-15",
       "note": "4.5 Gün",
       "title": "🐏 Kurban Bayramı",
       "until": "2026-05-19"
     },
     {
-      "date": "2026-06-25",
+      "date": "2027-06-25",
       "title": "📚 Tatil"
     },
     {
-      "date": "2026-10-29",
+      "date": "2027-10-29",
       "note": "Cumhuriyet Bayramı",
       "title": "🇹🇷 29 Ekim",
       "repeat": "yearly"
