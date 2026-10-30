@@ -68,10 +68,10 @@
       "title": "📚 Tatil"
     },
     {
-      "date": "2027-10-28",
-      "note": "1.5 Gün",
+      "date": "2027-10-29",
+      "note": "1.5 Gün\n28-29 Ekim",
       "title": "🇹🇷 29 Ekim Cumhuriyet Bayramı",
-      "until": "2027-10-29"
+      "repeat": "yearly"
     },
     {
       "date": "2027-01-01",
